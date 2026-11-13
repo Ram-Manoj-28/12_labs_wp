@@ -1,3 +1,0 @@
-/* Lab 2: Product information table */
-@import url('../assets/style.css');
-table{width:100%;border-collapse:collapse;overflow:hidden;border-radius:12px}th,td{padding:12px 15px;text-align:left}tbody tr:nth-child(even){background:rgba(120,130,150,.08)}tbody tr:hover{background:rgba(70,130,220,.10)}
