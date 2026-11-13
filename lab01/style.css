@@ -1,5 +1,0 @@
-/* Lab 1: Book catalogue and detail pages */
-@import url('../assets/style.css');
-.book-grid,.books-grid,.book-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.25rem}
-.book-card,.book-item{transition:transform .25s ease,box-shadow .25s ease}
-.book-card:hover,.book-item:hover{transform:translateY(-5px)}
