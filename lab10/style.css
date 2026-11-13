@@ -1,3 +1,0 @@
-/* Lab 10: PHP session application */
-@import url('../assets/style.css');
-.session-panel,.card,main{max-width:760px;margin:2rem auto;padding:clamp(1rem,3vw,2rem);border-radius:18px}form{display:grid;gap:1rem}
