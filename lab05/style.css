@@ -1,3 +1,0 @@
-/* Lab 5: College information page */
-@import url('../assets/style.css');
-.college-name,h1{letter-spacing:.025em;text-wrap:balance}.course-list{display:flex;flex-wrap:wrap;gap:.75rem}.course-list>*{padding:.55rem .85rem;border-radius:999px;background:rgba(90,120,180,.12)}
