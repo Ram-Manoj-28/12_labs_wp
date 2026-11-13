@@ -1,3 +1,0 @@
-/* External stylesheet for Experiment 06 */
-@import url('../assets/style.css');
-.travel-details{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin-top:20px}.travel-details article{padding:18px;background:#fff;border:1px solid #e5eaf2;border-radius:16px;box-shadow:0 12px 30px #18274b0d}.travel-details strong{display:block;color:#5b5ce2;font:700 21px 'Space Grotesk'}
