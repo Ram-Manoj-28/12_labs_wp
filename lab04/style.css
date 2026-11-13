@@ -1,0 +1,3 @@
+/* Lab 4: Country and capital selector */
+@import url('../assets/style.css');
+select{min-width:220px;padding:.75rem;border-radius:10px}#capital,.capital{font-size:1.35rem;font-weight:700;letter-spacing:.02em;transition:opacity .2s ease}
