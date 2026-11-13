@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<library>
-  <book id="B101" category="Fiction"><title>The Alchemist</title><author>Paulo Coelho</author><price>12.50</price></book>
-  <book id="B102" category="Self Help"><title>Ikigai</title><author>Hector Garcia</author><price>15.00</price></book>
-  <book id="B103" category="Personal Development"><title>Atomic Habits</title><author>James Clear</author><price>18.75</price></book>
-  <book id="B104" category="Technology"><title>Clean Code</title><author>Robert C. Martin</author><price>32.00</price></book>
-</library>
